@@ -1,0 +1,21 @@
+.modal{
+    background:$dark-blue;
+    width: 30%;
+    height: 50%;
+    color: $off-white;
+    margin:0 auto;
+    margin-top:10%;
+}
+.modal__title{
+    font-size: $xl-size;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 30%;
+}
+.modal__text{
+    font-size: $l-size;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 30%;
+    
+}
